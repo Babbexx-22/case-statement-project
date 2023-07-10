@@ -12,7 +12,7 @@ case $answer in
 	echo " Change directory to node and run the script"
 	cd /home/ubuntu/node && ./node.sh
     ;;
-b)
+2)
 	echo "Running the apache script"
 	./script.sh
     ;;
